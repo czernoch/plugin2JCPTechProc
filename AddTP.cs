@@ -56,7 +56,7 @@ namespace plugin2JCPTechProc
         /// </summary>
         public void Run(IHelios helios)
         {
-            MessageBox.Show("spusteno");
+            
         }
     }
 }
