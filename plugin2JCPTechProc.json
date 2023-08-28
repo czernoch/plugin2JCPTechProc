@@ -1,0 +1,82 @@
+{
+  "racice": [
+    {
+      "paleni": [
+        {
+          "pracoviste": 36,
+          "tarif": 74,
+          "operace": "10",
+          "nazev": "Laserové pálení"
+        }
+      ],
+      "rezani": [
+        {
+          "pracoviste": 75,
+          "tarif": 74,
+          "operace": "11",
+          "nazev": "Řezání"
+        }
+      ],
+      "brouseni": [
+        {
+          "pracoviste": 72,
+          "tarif": 74,
+          "operace": "12",
+          "nazev": "Broušení"
+        }
+      ],
+      "hraneni": [
+        {
+          "pracoviste": 38,
+          "tarif": 74,
+          "operace": "16",
+          "nazev": "Hranění",
+          "pripravnycasstrojni": 14,
+          "pripravnycasobsluhy": 14,
+          "pocetlidi": 2,
+          "pocetstroju": 1
+        }
+      ],
+      "vrtani": [
+        {
+          "pracoviste": 76,
+          "tarif": 74,
+          "operace": "17",
+          "nazev": "Vrtání"
+        }
+      ],
+      "krouzeni": [
+        {
+          "pracoviste": 42,
+          "tarif": 74,
+          "operace": "19",
+          "nazev": "Kroužení"
+        }
+      ],
+      "ukosovani": [
+        {
+          "pracoviste": 77,
+          "tarif": 74,
+          "operace": "18",
+          "nazev": "Úkosování"
+        }
+      ],
+      "obrabeni": [
+        {
+          "pracoviste": 93,
+          "tarif": 74,
+          "operace": "25",
+          "nazev": "Soustružení"
+        }
+      ],
+      "trideni": [
+        {
+          "pracoviste": 73,
+          "tarif": 74,
+          "operace": "60",
+          "nazev": "Třídění dílců"
+        }
+      ]
+    }
+  ]
+}
